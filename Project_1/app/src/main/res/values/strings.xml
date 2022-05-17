@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pranavi_first</string>
+    <string name="welcome_text">Welcome user </string>
+    <string name="button_one">Button 1</string>
+    <string name="button_two">Button 2</string>
+    <string name="enter_name">Enter the phone number below</string>
+    <string name="edit_text">phone number</string>
+
+
+</resources>
