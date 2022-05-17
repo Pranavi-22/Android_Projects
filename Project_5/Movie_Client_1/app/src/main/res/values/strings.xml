@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieClient</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="song_info">movie Info</string>
+    <string name="choose_the_movie_to_play_from_below">movie to Play</string>
+    <string name="enter_movie_id_to_show_info">Enter movie Id starts from 0 to 5 </string>
+    <string name="show_all_movie">Enter movie Id to show Info</string>
+</resources>
