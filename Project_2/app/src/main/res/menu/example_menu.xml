@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item
+     android:title="Entire picture"
+    android:id="@+id/o1"
+    />
+
+    <item
+        android:title="Animal facts"
+        android:id="@+id/o2"
+        />
+
+    <item
+        android:title="Wiki"
+        android:id="@+id/o3"
+        />
+
+</menu>
