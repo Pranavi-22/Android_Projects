@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0.aar/1a71c7bebac3b97973b5222fa8ab6fa2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/78a27b07df805ac5b838f2c86a7aa930/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/d39f9905a88dd3697940548173a536f2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/189dce99db3e206f7f0f7613f851692a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0.aar/457172933b0578f8e369244e80e8bb85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cdbd92dcf9229f7288aa37cea19db006/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3efb054db25c608693be9e9da10665c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d9d8c541030edb4262b98670ead67756/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e37921b8023dc59aaf371fa96a7e1139/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0.aar/dcfc322a48d719136e104f9225280194/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/03bbb9713f917debbcd3dd5af4f730c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/eca0e2e1155973b9defb221d9f83d863/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/459ec39b62e226c7960a72eb28fc93ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/08f9fe8d0b4279020a9d47728137277f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/629de8af3afbfdf164d01070cf61bc3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/740f5d933812a0a72309ccde0001351d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9358fcc4fec5118a226cd35c82a869e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5e698dd7b605a8dd5b18d31015a506fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ede8a7ce3035e9587b1757f738aac3ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/985715946408a1a0aef6ccf5c1c68652/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f772d2472fcec4d41777fe1ef92af9c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0.aar/7e343442db8241485a643427516837ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23352a599922c6dd9a3225a4cf36268f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0147156bac439010a798bce82f946d8a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/39f6668381f364d788436f6fe3901aba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/ce90466c9023e74ecbbac0e4d2cc825b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f3c413d72b840e5f89919831f971716/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7b15295ed41862e4d4ff7fcb1ac6a60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d53edcaf725309d6c4542bf795ee879a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f756667fae07580a494299ec3dae9b12/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8b0a9f4b4c91f31904d2a558c8ca3884/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7a9f305585c23d301187aec333d0132f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/168f17f4c2a20ecadbab8fe309cdc43c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/597a6185003ccb906a42607a23cd4411/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dacf8de7e05b8edb8f6e3659618d9d46/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:1-49:12
+	package
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:5:5-44
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:4:11-69
+	android:versionCode
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:9:5-47:19
+MERGED from [com.android.support:design:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/78a27b07df805ac5b838f2c86a7aa930/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/78a27b07df805ac5b838f2c86a7aa930/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/d39f9905a88dd3697940548173a536f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/d39f9905a88dd3697940548173a536f2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23352a599922c6dd9a3225a4cf36268f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23352a599922c6dd9a3225a4cf36268f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0147156bac439010a798bce82f946d8a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0147156bac439010a798bce82f946d8a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23352a599922c6dd9a3225a4cf36268f/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:12:9-53
+activity#course.examples.UI.GridLayout.GridLayoutActivity
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:17:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:22:27-74
+activity#course.examples.UI.GridLayout.ImageViewActivity
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:25:9-35:20
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:25:19-52
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:image/*+data:scheme:android.resource
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:26:13-34:29
+action#android.intent.action.VIEW
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:27:25-66
+data
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:29:17-31:57
+	android:scheme
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:31:21-54
+	android:mimeType
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:30:21-47
+category#android.intent.category.DEFAULT
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:33:27-73
+activity#course.examples.UI.GridLayout.fact_activity
+ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:36:9-46:20
+	android:name
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml:36:19-48
+uses-sdk
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0.aar/1a71c7bebac3b97973b5222fa8ab6fa2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-ui-1.0.0.aar/1a71c7bebac3b97973b5222fa8ab6fa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/78a27b07df805ac5b838f2c86a7aa930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/78a27b07df805ac5b838f2c86a7aa930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/d39f9905a88dd3697940548173a536f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/d39f9905a88dd3697940548173a536f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/189dce99db3e206f7f0f7613f851692a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/189dce99db3e206f7f0f7613f851692a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0.aar/457172933b0578f8e369244e80e8bb85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-fragment-1.0.0.aar/457172933b0578f8e369244e80e8bb85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cdbd92dcf9229f7288aa37cea19db006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cdbd92dcf9229f7288aa37cea19db006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3efb054db25c608693be9e9da10665c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3efb054db25c608693be9e9da10665c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d9d8c541030edb4262b98670ead67756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d9d8c541030edb4262b98670ead67756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e37921b8023dc59aaf371fa96a7e1139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e37921b8023dc59aaf371fa96a7e1139/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0.aar/dcfc322a48d719136e104f9225280194/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-runtime-1.0.0.aar/dcfc322a48d719136e104f9225280194/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/03bbb9713f917debbcd3dd5af4f730c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/03bbb9713f917debbcd3dd5af4f730c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/eca0e2e1155973b9defb221d9f83d863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/eca0e2e1155973b9defb221d9f83d863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/459ec39b62e226c7960a72eb28fc93ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/459ec39b62e226c7960a72eb28fc93ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/08f9fe8d0b4279020a9d47728137277f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/08f9fe8d0b4279020a9d47728137277f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/629de8af3afbfdf164d01070cf61bc3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/629de8af3afbfdf164d01070cf61bc3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/740f5d933812a0a72309ccde0001351d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/740f5d933812a0a72309ccde0001351d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9358fcc4fec5118a226cd35c82a869e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9358fcc4fec5118a226cd35c82a869e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5e698dd7b605a8dd5b18d31015a506fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5e698dd7b605a8dd5b18d31015a506fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ede8a7ce3035e9587b1757f738aac3ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ede8a7ce3035e9587b1757f738aac3ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/985715946408a1a0aef6ccf5c1c68652/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/985715946408a1a0aef6ccf5c1c68652/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f772d2472fcec4d41777fe1ef92af9c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f772d2472fcec4d41777fe1ef92af9c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0.aar/7e343442db8241485a643427516837ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/navigation-common-1.0.0.aar/7e343442db8241485a643427516837ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23352a599922c6dd9a3225a4cf36268f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/23352a599922c6dd9a3225a4cf36268f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0147156bac439010a798bce82f946d8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0147156bac439010a798bce82f946d8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/39f6668381f364d788436f6fe3901aba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/39f6668381f364d788436f6fe3901aba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/ce90466c9023e74ecbbac0e4d2cc825b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/ce90466c9023e74ecbbac0e4d2cc825b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f3c413d72b840e5f89919831f971716/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1f3c413d72b840e5f89919831f971716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7b15295ed41862e4d4ff7fcb1ac6a60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e7b15295ed41862e4d4ff7fcb1ac6a60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d53edcaf725309d6c4542bf795ee879a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d53edcaf725309d6c4542bf795ee879a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f756667fae07580a494299ec3dae9b12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f756667fae07580a494299ec3dae9b12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8b0a9f4b4c91f31904d2a558c8ca3884/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8b0a9f4b4c91f31904d2a558c8ca3884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7a9f305585c23d301187aec333d0132f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7a9f305585c23d301187aec333d0132f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/168f17f4c2a20ecadbab8fe309cdc43c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/168f17f4c2a20ecadbab8fe309cdc43c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/597a6185003ccb906a42607a23cd4411/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/597a6185003ccb906a42607a23cd4411/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dacf8de7e05b8edb8f6e3659618d9d46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/pranavialle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dacf8de7e05b8edb8f6e3659618d9d46/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pranavialle/Downloads/UIGridLayout-4 2 3/app/src/main/AndroidManifest.xml
